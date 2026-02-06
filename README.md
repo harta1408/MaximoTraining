@@ -43,7 +43,7 @@ This training is designed to provide a deep understanding of the Install  of IBM
         <td>1</td>
         <td>Session</td>
         <td><b>Introduction & MAS Architecture</b><p>
-• Opening Remarks & Ice Breaking <p>
+• Opening Remarks<p>
 • MAS Architecture Overview
 </td>
         <td>Participants understand the architectural transformation from traditional Maximo to the microservices and OpenShift-based architecture.</td>
@@ -90,7 +90,7 @@ Red Hat OpenShift Container Platform (RHOCP) Overview
         <td><b>Installation Topology</b><p>
 Single Node OpenShift (SNO) vs Multi-node Overview</td>
         <td>Participants can distinguish between deployment scenarios for SNO (Dev/Test/Edge) and Multi-node (Production).</td>
-        <td>30 mins</td>
+        <td>45 mins</td>
         <td><a href="https://techzone.ibm.com/collection/ibm-sustainability-software-single-node-open-shift-for-mas-ibm-tech-zone/resources">Link</a></td>
         <td>ALL</td>
     </tr> 
@@ -103,7 +103,7 @@ Single Node OpenShift (SNO) vs Multi-node Overview</td>
 </td>
         <td>Participants are able to register on IBM Environment </td>
         <td>45 mins</td>
-        <td><a href="https://techzone.ibm.com/home">Link</a></td>
+        <td><a href="https://techzone.ibm.com/my/reservations/create/63db9ea3a3b642001821f680">Link</a></td>
         <td>ALL</td>
 </tr>  
 <td>7</td>
@@ -136,7 +136,7 @@ Lab Setup: Login to My IBM Learning
 </td>
         <td>Participants are able to perform the technical steps for setting up Single Node OpenShift and installing MAS Manage independently or with guidance.</td>
         <td>60 mins</td>
-        <td><a href="./110-Create-Industry-Specific-Org-Hierarchy">Link</a></td>
+        <td><a href="https://techzone.ibm.com/collection/mas-manage-sno/journey-mas-manage-base-on-sno">Link</a></td>
         <td>ALL</td>
 </tr>  
     </tr>  
@@ -149,7 +149,7 @@ Lab Setup: Login to My IBM Learning
         <td>Participants are capable of activating and configuring the Maximo Mobile application connected to the MAS server.
 </td>
         <td>30 mins</td>
-        <td><a href="./160-contacts-logins">Link</a></td>
+        <td></td>
         <td>IT</td>
  </tr>   
         <tr>
@@ -263,7 +263,9 @@ Lab Setup: Login to My IBM Learning
 
 ## Note : 
 
-1. Using <a href="https://www.postman.com/downloads/">Postman</a> for MAS Manage API Testing . 
-2. Resource <a href="https://drive.google.com/drive/folders/11skbM5lo2frMyk1PX2BPyjzIOPR8E4yH?usp=sharing">Google Drive</a>
-3. Give Us  <a href="https://forms.gle/thXay8R8AyN63qDw8">Feedback</a>
+1. [Docker Desktop](https://www.docker.com/products/docker-desktop/) Download Page
+2. [Wire Guard VPN](https://www.wireguard.com/install/) Download Page
+3. Using <a href="https://www.postman.com/downloads/">Postman</a> for MAS Manage API Testing . 
+4. Resource <a href="https://drive.google.com/drive/folders/11skbM5lo2frMyk1PX2BPyjzIOPR8E4yH?usp=sharing">Google Drive</a>
+5. Give Us  <a href="https://forms.gle/thXay8R8AyN63qDw8">Feedback</a>
 
