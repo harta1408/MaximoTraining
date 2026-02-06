@@ -136,7 +136,7 @@ Lab Setup: Login to My IBM Learning
 </td>
         <td>Participants are able to perform the technical steps for setting up Single Node OpenShift and installing MAS Manage independently or with guidance.</td>
         <td>60 mins</td>
-        <td><a href="https://techzone.ibm.com/collection/mas-manage-sno/journey-mas-manage-base-on-sno">Link</a></td>
+        <td><a href="https://techzone.ibm.com/my/reservations">Link</a></td>
         <td>ALL</td>
 </tr>  
     </tr>  
