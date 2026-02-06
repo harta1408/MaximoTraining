@@ -37,7 +37,7 @@ This training is designed to provide a deep understanding of the Install  of IBM
         <th>Audience</th>
     </thead>
     <tr>
-        <td colspan="6"> ....................................................................................... <strong>DAY ONE</strong> .......................................................................................<td>
+        <td colspan="6"> ....................................................................................... <strong>DAY ONE</strong> .......................................................................................</td>
     </tr>    
     <tr>
         <td>1</td>
@@ -91,7 +91,7 @@ Red Hat OpenShift Container Platform (RHOCP) Overview
 Single Node OpenShift (SNO) vs Multi-node Overview</td>
         <td>Participants can distinguish between deployment scenarios for SNO (Dev/Test/Edge) and Multi-node (Production).</td>
         <td>45 mins</td>
-        <td><a href="https://techzone.ibm.com/collection/ibm-sustainability-software-single-node-open-shift-for-mas-ibm-tech-zone/resources">Link</a></td>
+        <td></td>
         <td>ALL</td>
     </tr> 
 <tr>
@@ -126,7 +126,7 @@ Lab Setup: Login to My IBM Learning
         <td>ALL</td>
     </tr>
      <tr>
-  <td colspan="6"> .......................................................................................... <strong>DAY TWO</strong> ..........................................................................................
+  <td colspan="6"> .......................................................................................... <strong>DAY TWO</strong> ..........................................................................................</td>
 <tr>
 <td>1</td>
         <td><b>LAB 1</b></td>
