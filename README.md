@@ -91,7 +91,7 @@ Red Hat OpenShift Container Platform (RHOCP) Overview
 Single Node OpenShift (SNO) vs Multi-node Overview</td>
         <td>Participants can distinguish between deployment scenarios for SNO (Dev/Test/Edge) and Multi-node (Production).</td>
         <td>45 mins</td>
-        <td></td>
+        <td><a href="https://techzone.ibm.com/my/reservations/create/6421e3b3198c4332a346e403">Link</a></td>
         <td>ALL</td>
     </tr> 
 <tr>
